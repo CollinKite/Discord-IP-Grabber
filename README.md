@@ -16,4 +16,4 @@
 
 # Example
 ```(prefix)ipgrab "https://google.com" "PSY - GANGNAM STYLE(강남스타일 M/V" "officalpsy" "https://i.ytimg.com/vi/9bZkp7q19f0/hq720.jpg"```  
-![example](/img/example.png "example")
+![Example](/img/example.png "Example")
