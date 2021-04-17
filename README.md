@@ -16,7 +16,7 @@
 
 # Usage
 * type the following command in the DM with the user you'd like to target. (Server Channels NOT recommended)  ```(prefix)ipgrab "https://your-grabify-url-here"```
-##### (prefix)ipgrab "Link" (REQUIRED) videoName (optional) "videoAuthor" (optional) "thumbnailURL" (optional)
+##### (prefix)```ipgrab "Link"``` (REQUIRED) ```"videoName"``` (optional) ```"videoAuthor"``` (optional) ```"thumbnailURL"``` (optional)
 
 # Example
 ```.ipgrab "https://google.com" "PSY - GANGNAM STYLE(강남스타일 M/V" "officalpsy" "https://i.ytimg.com/vi/9bZkp7q19f0/hq720.jpg"```  
