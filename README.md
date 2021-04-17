@@ -19,14 +19,14 @@
 ##### (prefix)ipgrab "Link" (REQUIRED) videoName (optional) "videoAuthor" (optional) "thumbnailURL" (optional)
 
 # Example
-```(prefix)ipgrab "https://google.com" "PSY - GANGNAM STYLE(강남스타일 M/V" "officalpsy" "https://i.ytimg.com/vi/9bZkp7q19f0/hq720.jpg"```  
+```.ipgrab "https://google.com" "PSY - GANGNAM STYLE(강남스타일 M/V" "officalpsy" "https://i.ytimg.com/vi/9bZkp7q19f0/hq720.jpg"```  
 ![Example](/img/example.png "Example")
 
 * Refer to https://discordpy.readthedocs.io/en/latest/ and https://nighty.one/docs/#customscripts for addtional documentation
 
 # Discord Foreign Link Warning
 ![warning](/img/warning.png "warning")
-### Discord will warn the user about any link when they click on a URL, where it will send them. We can hide our link behind a YouTube redirect link from any video on YouTube giving a better chance if for the user to continue if they don't inspect the url as carefully
+### Discord will warn the user about any link when they click on a URL, where it will send them. We can hide our link behind a YouTube redirect link from any video on YouTube giving a better chance for the user to continue if they don't inspect the url as carefully
 
 # Masking Our Link
 * First Lets find a video on youtube that has a link in the description, I'll use the video from the example from before  
