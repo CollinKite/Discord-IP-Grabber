@@ -34,7 +34,7 @@
 #### All we have to do is find a link that doesn't refer to another YouTube Channel or Video. This one will do the Job
 * Next let's Copy and Examine the URL!
 ```https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbU5tNzBxekhPdW5rU2lXT1E0MzNLb1ZXcXRyZ3xBQ3Jtc0trbGRRSnQ5RTZkOGRvTFQzOUo5R0dHa09nWWlxdjRBTWFDeXFCRWZvU2VuVnBxd2xKaDZaTHV1dTh1ZEc2N29SWXMxdEJteEM4Q3RqbW9hQm1DQ25jV1AweFplQm1QajNkZW04TFkycm5RdWxpWEVGQQ&q=https%3A%2F%2Fsmarturl.it%2FPSY_8thAlbum```
-#### All we care about is the section at the end of the url that looks like this, It'll always start with "q=" followed buy a weird looking variation of the URL we just selected. It would be ```q=https%3A%2F%2Fsmarturl.it%2FPSY_8thAlbum``` in this case
+#### All we care about is the section at the end of the url that looks like this, It'll always start with ```"q="``` followed buy a weird looking variation of the URL we just selected. It would be ```q=https%3A%2F%2Fsmarturl.it%2FPSY_8thAlbum``` in this case
 * Next lets disect what the different parts of the url mean, a tradtional URL looks like ```https://website.com/``` but as we can see with this one the all of the "/"s are replaced with "%2F" and the ":" is replaced with a "3F". So let's try replaceing this last part of the url with our link instead! Make sure to follow the format and see if it works! For this example I'll replace it to redirect to https://discordpy.readthedocs.io/en/latest/ .
 * Following the formatting you should get ```q=https%3A%2F%2Fdiscordpy.readthedocs.io%2Fen%2Flatest%2F```
 * Now lets put that back into the big url and run our script and see if it works!
