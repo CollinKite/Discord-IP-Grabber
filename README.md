@@ -9,7 +9,7 @@
 
 # Setup
 * Go to https://grabify.link and create a tracker forwarding to the youtube video you'd like to spoof.
-* Copy the script from [custom.py](custom.py) and pastr it into the file at --> Nighty Folder < Data < custom.py
+* Copy the script from [custom.py](custom.py) and paste it into the file at --> Nighty Folder < Data < custom.py
 * Copy the file [Youtube.json](Youtube.json) to Nighty Folder < Data < themes
 *After that, restart Nighty then run ```(prefix)theme Youtube``` and you're good to go! 
 
