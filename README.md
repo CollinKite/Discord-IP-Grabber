@@ -4,7 +4,7 @@
 ![realEmbed](/img/original.png "Real-Embed") 
 # Fake
 ![FakeEmbed](/img/FakeEmbed.png "Fake-Embed")
-##### This Script will use this Youtube Template if you don't replace the video parameters.
+##### This Script will use this Youtube Template pictured above if you don't replace the video parameters.
 ### This is a Custom script that works with the Nighty Self Bot which can be purchased here -> https://nighty.one
 
 # Setup
