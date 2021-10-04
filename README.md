@@ -1,5 +1,6 @@
 # Discord-IP-Grabber
 ## Creates a Fake Youtube Video Embed to phish user into clicking Grabify Link
+## NOTE: This is for Educational purposes only, any unauthorized malicious use is not condoned
 # Real
 ![realEmbed](/img/original.png "Real-Embed") 
 # Fake
